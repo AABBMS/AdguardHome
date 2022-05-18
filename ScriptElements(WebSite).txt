@@ -37,6 +37,9 @@
 @@||tbskip.taobao.com^$important
 @@||id.google.com^$important
 @@||pub.alimama.com^
+@@||s.click.taobao.com^$important
+#JD京東
+@@||wl.jd.com^$important
 #OneNote
 @@||docs.live.net^$important
 #javday影片
@@ -44,9 +47,6 @@
 @@mp4.ts
 ||t7z.cupid.ptqy.gitv.tv^$important
 @@||g.live.com^$important
-@@||s.click.taobao.com^$important
-@@||wl.jd.com^$important
-@@||yahoo.com^$important
 #YouTube廣告
 # https://r5---sn-uxa0n-t8gz.googlevideo.com/generate_204
 /generate_204$image
