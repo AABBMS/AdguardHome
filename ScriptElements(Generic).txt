@@ -1,5 +1,5 @@
 #-------------------參考項目-------------------
-# 參考資料: https://github.com/loveqqzj/AdGuard
+#參考資料: https://github.com/loveqqzj/AdGuard
 #-------------------通用腳本元素----------------
 &ad_ids=
 &ad_type=
