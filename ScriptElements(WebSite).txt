@@ -1,5 +1,5 @@
-!-------------------參考項目-----------------
-!https://github.com/loveqqzj/AdGuard
+#-------------------參考項目-----------------
+#https://github.com/loveqqzj/AdGuard
 #屏蔽小米開機廣告--代碼開始
 ||ad.mi.com
 ||ad.xiaomi.com
