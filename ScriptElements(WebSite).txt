@@ -1,6 +1,9 @@
 #-------------------參考項目-----------------
 #參考資料: https://github.com/loveqqzj/AdGuard
 #-------------------------------------------
+#20220518
+||tp-link.com^$important
+||log.mmstat.com^$important
 #屏蔽小米開機廣告--代碼開始
 ||ad.mi.com
 ||ad.xiaomi.com
