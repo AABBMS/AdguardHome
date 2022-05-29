@@ -1,3 +1,23 @@
-# 參考項目
-
-# 通用腳本元素
+#-------------------參考項目-----------------
+# AdguardHome白名單
+#-------------------------------------------
+# Google相關服務
+@@||fonts.gstatic.com^$important
+@@||youtube.com/api/stats/watchtime?$image,domain=youtube.com
+# OneNote
+@@||docs.live.net^$important
+# XnView
+@@||www.xnview.com^$important
+# Taobao
+@@||tbskip.taobao.com^$important
+@@||id.google.com^$important
+@@||pub.alimama.com^
+@@||s.click.taobao.com^$important
+# JD京東
+@@||wl.jd.com^$important
+# OneNote
+@@||docs.live.net^$important
+@@||g.live.com^$important
+# javday影片
+@@||javday.xyz/videos/*.m3u8^$xmlhttprequest,third-party,stealth
+@@mp4.ts
