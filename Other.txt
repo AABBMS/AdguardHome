@@ -1,0 +1,51 @@
+# AdGuard
+@@||adguard.com^
+@@||adguard.org^
+@@||adtidy.org^
+@@||agrd.io^
+# Whitelist
+@@||live.adyen.com^
+@@||ocsp.*.amazontrust.com^
+@@||api.crowdin.com^
+@@||durasite.net^
+@@||graph.facebook.com^
+@@||fastly.net^
+@@||firebaseio.com^
+@@||forms.gle^
+@@||gleam.io^
+@@||feedburner.google.com^
+@@||gstaticadssl.l.google.com^
+@@||google-analytics.com^
+@@||fonts.googleapis.com^
+@@||googletagmanager.com^
+@@||googleusercontent.com^
+@@||groupees.com^
+@@||fonts.gstatic.com^
+@@||downloads.intercomcdn.com^
+@@||ipapi.co^
+@@||mailtrack.io^
+@@||marfeelcdn.com^
+@@||cdn.muut.com^
+# @@||nakanohito.jp^
+@@||stats.nba.com^
+@@||neowin.net^
+@@||d.pixiv.org^
+@@||pornhubpremium.com^
+@@||mp.weixin.qq.com^
+@@||tshop.r10s.jp^
+@@||cdn.ravenjs.com^
+@@||ocsp.sectigo.com^
+@@||browser.sentry-cdn.com^
+@@||crash.steampowered.com^
+@@||t.ly^
+@@||the.dns^
+@@||tags.tiqcdn.com^
+@@||p.typekit.net^
+@@||cloud.unity3d.com^
+@@||s.youtube.com^
+@@||static.zdassets.com^
+# Blocklist
+||ettoday.com^
+||pixnet.com^
+||pizzaseo.com^
+||sakurayae.com^
