@@ -44,8 +44,3 @@
 @@||cloud.unity3d.com^
 @@||s.youtube.com^
 @@||static.zdassets.com^
-# Blocklist
-||ettoday.com^
-||pixnet.com^
-||pizzaseo.com^
-||sakurayae.com^
