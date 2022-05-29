@@ -46,3 +46,7 @@
 @@||www.taiwanlottery.com.tw^
 # Yahoo# 新聞影片
 @@||edgecast-vod.yahoo.net
+# Line
+@@||obs.line-scdn.net/r
+@@||obs-tw.line-apps.com/talk
+@@||stickershop.line-scdn.net
