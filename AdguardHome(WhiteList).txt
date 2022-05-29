@@ -21,3 +21,8 @@
 # javday影片
 @@||javday.xyz/videos/*.m3u8^$xmlhttprequest,third-party,stealth
 @@mp4.ts
+# 其他未驗證
+@@||ebb.io^$important,document,~extension
+@@||postserv.post.gov.tw/pstmail/main_mail.html$important,document,~extension
+@@||pxmart.com.tw^$important,document,~extension
+@@||fonts.gstatic.com^
