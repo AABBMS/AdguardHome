@@ -609,3 +609,78 @@ adservice.google.com
 amazon.sa
 mmbiz.qpic.cn
 pr-bh.ybp.yahoo.com
+# 黑名單
+||5hz.org^
+# 針對台灣的簡訊詐騙
+||awetd.club^
+||sexsa.xyz^
+||waetd.xyz^
+||super-1.vip^
+# 針對香港的簡訊詐騙
+||hongkongpost.cf^
+# 追蹤
+||t.holmesmind.com^
+# 新聞
+||ad.ettoday.net^
+||ad*.nownews.com^
+# Yahoo# 新聞廣告
+||fc.yahoo.com^
+# SEO 濫用
+||pizzaseo.com^
+# 漫畫人廣告
+||videoapi.manhuaren.com^
+# 詐騙
+||wildernbus1.live^
+||ladiestofuck.com^
+||taiwan-bestdeals.com^
+||fghjkd.com^
+||track-post-tw.com^
+||track-post-gov-tw.info^
+||brainstudy.info^
+# 釣魚
+||track-post-gov-tw.info^
+||goodluckdog.space^
+# M$ Appcenter log
+||in.appcenter.ms^
+# $ony 耳機 App
+||ndmdhs.com^
+# 垃圾 Line 詐騙
+||baixingnew.com^
+||free-point-receive.weebly.com^
+||freedlinestore.com^
+||healthy001.top^
+||kfc-vip.vip^
+||linemestickershop.weebly.com^
+||owo-owo.vip^
+||sjpop1z.com^
+||xtwnjf.com^
+||xvlpazn.cn^
+||healthy007.top^
+||vip-l53.work^
+||cjfeicui.net^
+# Weebly 詐騙
+||netfllx.weebly.com^
+# 臉輸詐騙
+||dented-sun-colt.glitch.me^
+# 混淆垃圾農場網頁
+||7box.vip^
+||renaultpassonxperience.co^
+||softwarebrother.com^
+||yuutoday.com^
+# 抽獎廣告
+||weeklywinningluckydayextra.cyou^
+||winning-coupon-theday-congrats.cyou^
+# 影音媒體廣告
+||onead.onevision.com.tw^
+||ad-specs.guoshipartners.com^
+# 低卡廣告
+||dad-api.dcard.tw^
+||xlate.dcard.tw^
+||sun.advividnetwork.com^
+||taiwan-free-store.com^
+||tw-track.com^
+||discord-i.com^
+||viewty.xyz^
+||tw-beaxfun.fun^
+||investing-reads.com^
+||bianceance.com^
