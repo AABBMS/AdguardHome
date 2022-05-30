@@ -251,7 +251,5 @@
 ||zhuti.xiaomi.com
 ||zx.game.xiaomi.com
 ||zx.game.xiaomi.comstat.xiaomi.com
-#Google相關服務
-@@||fonts.gstatic.com^$important
 #安全威脅
 ||suc.coolpropunlockables.fun^$important
