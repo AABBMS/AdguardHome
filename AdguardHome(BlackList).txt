@@ -23,7 +23,7 @@
 ||stat.pandora.xiaomi.com
 ||t7z.cupid.ptqy.gitv.tv^$important
 ||upgrade.mishop.pandora.xiaomi.com
-# 阻止互聯網上與小米的不必要連接(不阻止其子域)
+# 阻止互聯網上與小米的不必要連接
 ||abtest.mistat.intl.xiaomi.com
 ||abtest.mistat.xiaomi.com
 ||account.preview.n.xiaomi.net
