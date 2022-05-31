@@ -25,3 +25,5 @@
 @@||ssl.p.jwpcdn.com^$important
 #STREA(影片)
 @@||streamtape.com^$important
+#1pondo(影片)
+@@||m.pornhd.vip^$important
