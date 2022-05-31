@@ -27,5 +27,8 @@
 @@||streamtape.com^$important
 #1pondo(影片)
 @@||pornhd.vip^$important
-#FANZA
+#FANZA(影片)
 @@||cc3001.dmm.co.jp^$important
+#pornhub(影片)
+@@||pornhub.com^$important
+@@||phncdn.com^$important
