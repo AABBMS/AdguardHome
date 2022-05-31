@@ -32,3 +32,5 @@
 #pornhub(影片)
 @@||pornhub.com^$important
 @@||phncdn.com^$important
+#R18(影片)
+@@||awspv3001.r18.com^$important
