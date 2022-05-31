@@ -13,7 +13,7 @@
 @@||pub.alimama.com^
 #javday影片
 @@||javday.xyz/videos/*.m3u8^$xmlhttprequest,third-party,stealth
-#yavtube網頁
-@@||pics.dmm.co.jp^$important
-@@||japanesebeauties.one^$important
-@@||pics.r18.com^$important
+#yavtube網頁(圖片)
+#@@||pics.dmm.co.jp^$important
+#@@||japanesebeauties.one^$important
+#@@||pics.r18.com^$important
