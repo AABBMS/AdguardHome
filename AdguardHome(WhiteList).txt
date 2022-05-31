@@ -13,3 +13,15 @@
 @@||pub.alimama.com^
 #javday影片
 @@||javday.xyz/videos/*.m3u8^$xmlhttprequest,third-party,stealth
+#yavtube網頁(圖片)
+@@||pics.dmm.co.jp^$important
+@@||japanesebeauties.one^$important
+@@||pics.r18.com^$important
+#HEYZO(影片)
+@@||sample.heyzo.com^$important
+#MM984(影片)
+@@||fvs.io^$important
+#MM984(影片)
+@@||ssl.p.jwpcdn.com^$important
+#STREA(影片)
+@@||streamtape.com^$important
