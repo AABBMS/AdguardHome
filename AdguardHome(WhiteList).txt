@@ -14,3 +14,4 @@
 #javday影片
 @@||javday.xyz/videos/*.m3u8^$xmlhttprequest,third-party,stealth
 #yavtube網頁
+@@||pics.dmm.co.jp^$important
