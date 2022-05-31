@@ -1,0 +1,32 @@
+#===【Seoul自定義】===
+
+#javday影片
+@@||javday.xyz/videos/*.m3u8^$xmlhttprequest,third-party,stealth
+
+#百度登入及廣告
+zhihu.com#$?#.ContentItem > div.ModalWrap:has(> div > div.ModalExp-content > div.ModalWrap-content > div:contains(继续浏览内容)) { display: none!important; }
+zhihu.com##.MobileAppHeader-downloadLink
+zhihu.com##.ViewAllInappCard
+zhihu.com##.OpenInAppButton
+zhihu.com#$#body.ModalWrap-body { overflow: visible !important; }
+zhihu.com#$#.Body--Mobile .ContentItem .RichContent--unescapable > .RichContent-inner:not([style]) + button.ContentItem-expandButton { display: none !important; }
+zhihu.com#%#//scriptlet('remove-class', 'is-collapsed', '.Body--Mobile .ContentItem .is-collapsed.RichContent--unescapable')
+zhihu.com#%#//scriptlet('remove-attr', 'style', '.Body--Mobile .ContentItem .RichContent--unescapable > .RichContent-inner[style^="max-height:"]')
+zhuanlan.zhihu.com#%#AG_onLoad(function(){var c=!1,b=new MutationObserver(function(){var a=document.querySelector("button.AppHeader-login");a&&!c&&(c=!0,a.addEventListener("click",function(){b.disconnect()}));(a=document.querySelector(".Modal-wrapper .signFlowModal > .Modal-closeButton"))&&(b.disconnect(),a.click())});b.observe(document,{childList:!0,subtree:!0});setTimeout(function(){b.disconnect()},5E3)});
+zhihu.com##.AdblockBanner
+zhihu.com#$?#.ContentItem > div.ModalWrap:has(> div > div.ModalExp-content > div.ModalWrap-content > div:contains(继续浏览内容)) { display: none!important; }
+zhihu.com,vprok.ru,raysigorta.com.tr,m.sportmaster.ru,i2symbol.com#$#body { overflow: visible!important; }
+
+#csdn登入
+blog.csdn.net###article_content > link + a
+blog.csdn.net##.t0
+blog.csdn.net##.toolbar-advert
+blog.csdn.net##SCRIPT[src^="https://csdnimg.cn/release/phoenix/vendor/linkCatcher/linkCatcher.js"] + .t0
+blog.csdn.net##div.leftPop:nth-child(44)
+blog.csdn.net##div.leftPop:nth-child(50)
+blog.csdn.net##div.leftPop:nth-child(53)
+blog.csdn.net##div.leftPop:nth-child(55)
+blog.csdn.net##div.leftPop:nth-child(58)
+blog.csdn.net##dl[id^="yd_a_d_feed_"]
+
+#其他
