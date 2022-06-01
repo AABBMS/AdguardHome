@@ -28,9 +28,11 @@
 #1pondo(影片)
 @@||pornhd.vip^$important
 #FANZA(影片)
+
 @@||cc3001.dmm.co.jp^$important
 #pornhub(影片)
-@@||pornhub.com^$important
-@@||phncdn.com^$important
+！(有病毒)@@||pornhub.com^$important
+！(有病毒)@@||phncdn.com^$important
 #R18(影片)
 @@||awspv3001.r18.com^$important
+@@/example.*/$important
