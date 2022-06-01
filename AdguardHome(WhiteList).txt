@@ -13,6 +13,7 @@
 @@||pub.alimama.com^
 #javday影片
 @@||javday.xyz/videos/*.m3u8^$xmlhttprequest,third-party,stealth
+
 #yavtube網頁(圖片)
 @@||pics.dmm.co.jp^$important
 @@||japanesebeauties.one^$important
@@ -28,7 +29,6 @@
 #1pondo(影片)
 @@||pornhd.vip^$important
 #FANZA(影片)
-
 @@||cc3001.dmm.co.jp^$important
 #pornhub(影片)
 ！(有病毒)@@||pornhub.com^$important
