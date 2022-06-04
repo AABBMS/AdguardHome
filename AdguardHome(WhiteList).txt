@@ -11,5 +11,3 @@
 @@||tbskip.taobao.com
 @@||id.google.com
 @@||pub.alimama.com
-# facebook
-#@@||graph.facebook.com
