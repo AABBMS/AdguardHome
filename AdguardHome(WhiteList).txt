@@ -1,13 +1,15 @@
 #-------------------參考項目-----------------
 # AdguardHome 白名單
 #-------------------------------------------
-#Google相關服務
-@@||fonts.gstatic.com^$important
-#OneNote
-@@||docs.live.net^$important
+# Google相關服務
+@@||fonts.gstatic.com
+# OneNote
+@@||docs.live.net
 #XnView
-@@||www.xnview.com^$important
-#Taobao
-@@||tbskip.taobao.com^$important
-@@||id.google.com^$important
-@@||pub.alimama.com^
+@@||www.xnview.com
+# Taobao
+@@||tbskip.taobao.com
+@@||id.google.com
+@@||pub.alimama.com
+# facebook
+@@||graph.facebook.com
