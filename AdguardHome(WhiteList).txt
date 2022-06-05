@@ -12,3 +12,5 @@
 @@||id.google.com
 @@||pub.alimama.com
 @@||h5api.m.taobao.com
+# Yuu
+@@||api.loginradius.com
