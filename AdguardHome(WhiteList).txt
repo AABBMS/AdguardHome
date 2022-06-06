@@ -14,3 +14,5 @@
 @@||h5api.m.taobao.com
 # Yuu
 @@||api.loginradius.com
+# instagram
+@@||i.instagram.com
