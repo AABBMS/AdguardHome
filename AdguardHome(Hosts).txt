@@ -8,3 +8,6 @@
 0.0.0.0 peacecorps.gov
 0.0.0.0 a.gtld-servers.net
 0.0.0.0 c34b4c33.openresolverproject.org
+0.0.0.0 rr-mirror.research.nawrocki.berlin
+0.0.0.0 138.2.5.122.1654509600.main.research.openresolve.rs
+0.0.0.0 www.cybergreen.net
