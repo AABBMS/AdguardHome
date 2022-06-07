@@ -16,6 +16,11 @@ zhuanlan.zhihu.com#%#AG_onLoad(function(){var c=!1,b=new MutationObserver(functi
 zhihu.com##.AdblockBanner
 zhihu.com#$?#.ContentItem > div.ModalWrap:has(> div > div.ModalExp-content > div.ModalWrap-content > div:contains(继续浏览内容)) { display: none!important; }
 zhihu.com,vprok.ru,raysigorta.com.tr,m.sportmaster.ru,i2symbol.com#$#body { overflow: visible!important; }
+zhihu.com##.css-1ynzxqw
+
+#bilibili
+bilibili.com##div.v-popover-content > div.login-panel-popover
+bilibili.com##.bilibili-player-video-toast-wrp
 
 #csdn登入
 blog.csdn.net###article_content > link + a
