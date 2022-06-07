@@ -16,3 +16,5 @@
 @@||api.loginradius.com
 # instagram
 @@||i.instagram.com
+# 000WebHost(免費網頁)
+@@||000webhostapp.com
