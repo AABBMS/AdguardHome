@@ -261,3 +261,4 @@
 ||userapi.edrawsoft.com
 ||masterapi.edrawsoft.com
 ||mindmaster_win.bugsplat.com
+||pc-api.wondershare.cc
