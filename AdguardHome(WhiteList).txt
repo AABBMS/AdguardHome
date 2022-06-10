@@ -18,3 +18,5 @@
 @@||i.instagram.com
 # 000WebHost(免費網頁)
 @@||000webhostapp.com
+# 小米手機更新
+@@||update.intl.miui.com
