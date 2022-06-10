@@ -263,3 +263,4 @@
 ||mindmaster_win.bugsplat.com
 ||pc-api.wondershare.cc
 ||pc-api.300624.com
+||product-api.wondershare.com
