@@ -253,3 +253,11 @@
 ||zx.game.xiaomi.comstat.xiaomi.com
 #安全威脅
 ||suc.coolpropunlockables.fun^$important
+# EdrawMind(心智圖)
+||api.wondershare.cc
+||sparrow.wondershare.com
+||mm.edrawsoft.com
+||account.edrawsoft.com
+||userapi.edrawsoft.com
+||masterapi.edrawsoft.com
+||mindmaster_win.bugsplat.com
