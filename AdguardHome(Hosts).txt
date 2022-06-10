@@ -11,3 +11,11 @@
 0.0.0.0 rr-mirror.research.nawrocki.berlin
 0.0.0.0 138.2.5.122.1654509600.main.research.openresolve.rs
 0.0.0.0 www.cybergreen.net
+# EdrawMind(心智圖)
+0.0.0.0 api.wondershare.cc
+0.0.0.0 sparrow.wondershare.com
+0.0.0.0 mm.edrawsoft.com
+0.0.0.0 account.edrawsoft.com
+0.0.0.0 userapi.edrawsoft.com
+0.0.0.0 masterapi.edrawsoft.com
+0.0.0.0 mindmaster_win.bugsplat.com
