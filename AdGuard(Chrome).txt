@@ -1,7 +1,14 @@
 #===【Seoul自定義】===
+# YouTube
+youtube.com##.ytp-ce-element, .ytp-ce-video, .ytp-ce-top-left-quad, .ytp-ce-size-1280, .ytp-ce-element-show
 
 #javday影片
 @@||javday.xyz/videos/*.m3u8^$xmlhttprequest,third-party,stealth
+
+# 電影先生 DianYing.in
+dianying.im##.shortcuts-mobile-overlay
+dianying.im##.popup, .popup-tips, .open
+
 
 #百度登入及廣告
 zhihu.com#$?#.ContentItem > div.ModalWrap:has(> div > div.ModalExp-content > div.ModalWrap-content > div:contains(继续浏览内容)) { display: none!important; }
