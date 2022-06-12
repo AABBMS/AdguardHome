@@ -52,7 +52,4 @@ waipian5.com##.popup, .popup-tips, .open
 waipian6.com##.shortcuts-mobile-overlay
 waipian6.com##.popup, .popup-tips, .open
 
-# Avple.tv
-
-
 #其他
