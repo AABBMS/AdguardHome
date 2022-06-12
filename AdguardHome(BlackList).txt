@@ -260,6 +260,7 @@
 ||sparrow.wondershare.com
 ||pc-api.wondershare.cc
 ||product-api.wondershare.com
+||analytics.wondershare.cc
 ||mm.edrawsoft.com
 ||account.edrawsoft.com
 ||userapi.edrawsoft.com
