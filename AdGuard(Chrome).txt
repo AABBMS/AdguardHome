@@ -53,13 +53,6 @@ waipian6.com##.shortcuts-mobile-overlay
 waipian6.com##.popup, .popup-tips, .open
 
 # Avple.tv
-avple.tv###__next > div.MuiContainer-root.MuiContainer-maxWidthLg > div:nth-child(3) > div:first-child
-avple.tv###__next > div.MuiContainer-root.MuiContainer-maxWidthLg > div:nth-child(2)
-avple.tv###__next > div.MuiContainer-root.MuiContainer-maxWidthLg > div:nth-child(3) > div:last-child
-avple.tv###__next > div.MuiContainer-root.MuiContainer-maxWidthLg > div:nth-child(4)
-avple.tv###__next > div.MuiContainer-root.MuiContainer-maxWidthLg > div:nth-child(6)
-avple.tv###__next > div.MuiContainer-root.MuiContainer-maxWidthLg > div:nth-child(16)
-avple.tv###__next > div.MuiContainer-root.MuiContainer-maxWidthLg > div:nth-child(18)
-avple.tv###__next > div.MuiContainer-root.MuiContainer-maxWidthLg > div:nth-child(14)
+
 
 #其他
