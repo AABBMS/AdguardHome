@@ -256,12 +256,14 @@
 # EdrawMind(心智圖)
 ||api.wondershare.cc
 ||wae.wondershare.cc
+||dc.wondershare.cc
 ||sparrow.wondershare.com
+||pc-api.wondershare.cc
+||product-api.wondershare.com
 ||mm.edrawsoft.com
 ||account.edrawsoft.com
 ||userapi.edrawsoft.com
 ||masterapi.edrawsoft.com
 ||mindmaster_win.bugsplat.com
-||pc-api.wondershare.cc
 ||pc-api.300624.com
-||product-api.wondershare.com
+#其他
