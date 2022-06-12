@@ -2,15 +2,6 @@
 # YouTube
 youtube.com##.ytp-ce-element, .ytp-ce-video, .ytp-ce-top-left-quad, .ytp-ce-size-1280, .ytp-ce-element-show
 
-#javday影片
-@@||javday.xyz/videos/*.m3u8^$xmlhttprequest,third-party,stealth
-
-# 電影先生 DianYing.in
-dianying.im##.shortcuts-mobile-overlay
-dianying.im##.popup, .popup-tips, .open
-dyxs15.com##.shortcuts-mobile-overlay
-dyxs15.com##.popup, .popup-tips, .open
-
 #百度登入及廣告
 zhihu.com#$?#.ContentItem > div.ModalWrap:has(> div > div.ModalExp-content > div.ModalWrap-content > div:contains(继续浏览内容)) { display: none!important; }
 zhihu.com##.MobileAppHeader-downloadLink
@@ -41,5 +32,34 @@ blog.csdn.net##div.leftPop:nth-child(53)
 blog.csdn.net##div.leftPop:nth-child(55)
 blog.csdn.net##div.leftPop:nth-child(58)
 blog.csdn.net##dl[id^="yd_a_d_feed_"]
+
+#javday影片
+@@||javday.xyz/videos/*.m3u8^$xmlhttprequest,third-party,stealth
+
+# 電影先生 DianYing.in
+dianying.im##.shortcuts-mobile-overlay
+dianying.im##.popup, .popup-tips, .open
+dyxs15.com##.shortcuts-mobile-overlay
+dyxs15.com##.popup, .popup-tips, .open
+
+# 天空影視
+tkys.tv##.layui-layer-shade
+tkys.tv##.layui-layer, .layui-layer-page
+
+# 歪片星球
+waipian5.com##.shortcuts-mobile-overlay
+waipian5.com##.popup, .popup-tips, .open
+waipian6.com##.shortcuts-mobile-overlay
+waipian6.com##.popup, .popup-tips, .open
+
+# Avple.tv
+avple.tv###__next > div.MuiContainer-root.MuiContainer-maxWidthLg > div:nth-child(3) > div:first-child
+avple.tv###__next > div.MuiContainer-root.MuiContainer-maxWidthLg > div:nth-child(2)
+avple.tv###__next > div.MuiContainer-root.MuiContainer-maxWidthLg > div:nth-child(3) > div:last-child
+avple.tv###__next > div.MuiContainer-root.MuiContainer-maxWidthLg > div:nth-child(4)
+avple.tv###__next > div.MuiContainer-root.MuiContainer-maxWidthLg > div:nth-child(6)
+avple.tv###__next > div.MuiContainer-root.MuiContainer-maxWidthLg > div:nth-child(16)
+avple.tv###__next > div.MuiContainer-root.MuiContainer-maxWidthLg > div:nth-child(18)
+avple.tv###__next > div.MuiContainer-root.MuiContainer-maxWidthLg > div:nth-child(14)
 
 #其他
