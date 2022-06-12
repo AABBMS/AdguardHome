@@ -60,5 +60,7 @@ avple.tv###__next > div.MuiContainer-root.MuiContainer-maxWidthLg > div:nth-chil
 avple.tv###__next > div.MuiContainer-root.MuiContainer-maxWidthLg > div:nth-child(14) > span.MuiSkeleton-root.MuiSkeleton-rect.jss12.MuiSkeleton-pulse:nth-child(2)
 avple.tv###__next > div.MuiContainer-root.MuiContainer-maxWidthLg > div:nth-child(16) > span.MuiSkeleton-root.MuiSkeleton-rect.jss12.MuiSkeleton-pulse:nth-child(2)
 avple.tv###__next > div.MuiContainer-root.MuiContainer-maxWidthLg > div:nth-child(18) > span.MuiSkeleton-root.MuiSkeleton-rect.jss12.MuiSkeleton-pulse:nth-child(2)
+avple.tv###__next > div.MuiContainer-root.MuiContainer-maxWidthLg > div:nth-child(3) > div:first-child > span.MuiSkeleton-root.MuiSkeleton-rect.jss12.MuiSkeleton-pulse:nth-child(2)
+avple.tv###__next > div.MuiContainer-root.MuiContainer-maxWidthLg > div:nth-child(3) > div:last-child > span.MuiSkeleton-root.MuiSkeleton-rect.jss12.MuiSkeleton-pulse:nth-child(2)
 
 #其他
