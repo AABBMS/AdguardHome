@@ -52,4 +52,13 @@ waipian5.com##.popup, .popup-tips, .open
 waipian6.com##.shortcuts-mobile-overlay
 waipian6.com##.popup, .popup-tips, .open
 
+# avple.tv
+avple.tv###__next > div.MuiContainer-root.MuiContainer-maxWidthLg > div:nth-child(2)
+avple.tv###__next > div.MuiContainer-root.MuiContainer-maxWidthLg > div:nth-child(4) > div:nth-child(7)
+avple.tv###__next > div.MuiContainer-root.MuiContainer-maxWidthLg > div:nth-child(4) > span.MuiSkeleton-root.MuiSkeleton-rect.jss12.MuiSkeleton-pulse:nth-child(2)
+avple.tv###__next > div.MuiContainer-root.MuiContainer-maxWidthLg > div:nth-child(6) > span.MuiSkeleton-root.MuiSkeleton-rect.jss12.MuiSkeleton-pulse:nth-child(2)
+avple.tv###__next > div.MuiContainer-root.MuiContainer-maxWidthLg > div:nth-child(14) > span.MuiSkeleton-root.MuiSkeleton-rect.jss12.MuiSkeleton-pulse:nth-child(2)
+avple.tv###__next > div.MuiContainer-root.MuiContainer-maxWidthLg > div:nth-child(16) > span.MuiSkeleton-root.MuiSkeleton-rect.jss12.MuiSkeleton-pulse:nth-child(2)
+avple.tv###__next > div.MuiContainer-root.MuiContainer-maxWidthLg > div:nth-child(18) > span.MuiSkeleton-root.MuiSkeleton-rect.jss12.MuiSkeleton-pulse:nth-child(2)
+
 #其他
