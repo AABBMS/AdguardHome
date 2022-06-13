@@ -268,4 +268,5 @@
 ||mindmaster_win.bugsplat.com
 ||pc-api.300624.com
 ||api.300624.com
+||www.edrawsoft.com
 #其他
