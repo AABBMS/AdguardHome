@@ -267,4 +267,5 @@
 ||masterapi.edrawsoft.com
 ||mindmaster_win.bugsplat.com
 ||pc-api.300624.com
+||api.300624.com
 #其他
