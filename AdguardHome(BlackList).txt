@@ -269,4 +269,5 @@
 ||pc-api.300624.com
 ||api.300624.com
 ||www.edrawsoft.com
+||masterapi.edrawsoft.com
 #其他
