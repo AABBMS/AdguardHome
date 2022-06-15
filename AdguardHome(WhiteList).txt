@@ -1,6 +1,8 @@
 #-------------------參考項目-----------------
 # AdguardHome 白名單
 #-------------------------------------------
+# Apple相關服務
+@@||amp-api-edge.apps.apple.com
 # Google相關服務
 @@||fonts.gstatic.com
 # OneNote
