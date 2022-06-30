@@ -1,6 +1,6 @@
 #===【Seoul自定義】===
 # YouTube
-youtube.com##.ytp-ce-element, .ytp-ce-video, .ytp-ce-top-left-quad, .ytp-ce-size-1280, .ytp-ce-element-show
+
 
 #百度登入及廣告
 zhihu.com#$?#.ContentItem > div.ModalWrap:has(> div > div.ModalExp-content > div.ModalWrap-content > div:contains(继续浏览内容)) { display: none!important; }
