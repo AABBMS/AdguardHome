@@ -1,0 +1,14 @@
+#-------------------參考項目-----------------
+# AdguardHome Hosts IPV4
+#-------------------------------------------
+# TP-Link(路由器不停自動訪問)
+0.0.0.0 tp-link.com
+# AdguardHome未被允許的用戶端訪問網站
+0.0.0.0 ip.parrotdns.com
+0.0.0.0 peacecorps.gov
+0.0.0.0 a.gtld-servers.net
+0.0.0.0 c34b4c33.openresolverproject.org
+0.0.0.0 rr-mirror.research.nawrocki.berlin
+0.0.0.0 138.2.5.122.1654509600.main.research.openresolve.rs
+0.0.0.0 www.cybergreen.net
+0.0.0.0 vtikejf.icu
