@@ -1,0 +1,41 @@
+#-------------------參考項目-----------------
+# AdguardHome 白名單
+#-------------------------------------------
+# Apple相關服務
+@@||amp-api-edge.apps.apple.com
+# Google相關服務
+@@||fonts.gstatic.com
+# OneNote
+@@||docs.live.net
+#XnView
+@@||www.xnview.com
+# Taobao
+@@||tbskip.taobao.com
+@@||id.google.com
+@@||pub.alimama.com
+@@||h5api.m.taobao.com
+# Yuu
+@@||api.loginradius.com
+@@||cloud-api.loginradius.com
+# instagram
+@@||i.instagram.com
+# 000WebHost(免費網頁)
+@@||000webhostapp.com
+# 小米手機更新
+@@||update.intl.miui.com
+#小米社區
+@@||web.vip.miui.com
+@@||rs.vip.miui.com
+@@||api.vip.miui.com
+#小米APP攝影鏡頭'
+@@||business.smartcamera.api.io.mi.com
+@@||api.io.mi.com
+@@||www.videolan.org
+# 查詢網站數據
+@@||www.similarweb.com
+@@||account.similarweb.com
+@@||secure.similarweb.com
+# 教程
+@@||blog.dnomd343.top
+# PI NETWORK
+@@||coinmarketcap.com
