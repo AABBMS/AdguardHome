@@ -7,7 +7,7 @@
 @@||fonts.gstatic.com
 # OneNote
 @@||docs.live.net
-#XnView
+# XnView
 @@||www.xnview.com
 # Taobao
 @@||tbskip.taobao.com
@@ -23,6 +23,10 @@
 @@||000webhostapp.com
 # 小米手機更新
 @@||update.intl.miui.com
+@@||connect.rom.miui.com
+# 小米賬號
+@@||account.xiaomi.com
+@@||find.api.micloud.xiaomi.net
 #小米社區
 @@||web.vip.miui.com
 @@||rs.vip.miui.com
@@ -39,3 +43,9 @@
 @@||blog.dnomd343.top
 # PI NETWORK
 @@||coinmarketcap.com
+# 碼農家園_開發程序員
+@@||www.codenong.com
+# 3HK_DIY
+@@||hutchisontelecom.demdex.net
+# WeChat_for_Windows軟件下載
+@@||cdntips.net
