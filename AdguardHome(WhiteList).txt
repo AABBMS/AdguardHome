@@ -27,6 +27,7 @@
 # 小米賬號
 @@||account.xiaomi.com
 @@||find.api.micloud.xiaomi.net
+@@||api.micloud.xiaomi.net
 #小米社區
 @@||web.vip.miui.com
 @@||rs.vip.miui.com
